@@ -1,6 +1,6 @@
 {
   "name": "base-bend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base back end for projects",
   "main": "index.js",
   "scripts": {
