@@ -1,6 +1,6 @@
 {
   "name": "base-bend",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Base back end for projects",
   "main": "index.js",
   "scripts": {
@@ -12,8 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "env-cmd": "^10.1.0",
-    "jest": "^24.9.0",
-    "nodemon": "^1.19.4",
+    "jest": "^27.1.0",
+    "nodemon": "^2.0.12",
     "supertest": "^4.0.2"
   },
   "dependencies": {
@@ -21,11 +21,11 @@
     "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
-    "mongodb": "^3.5.4",
-    "mongoose": "^5.9.4",
+    "mongodb": "^4.1.1",
+    "mongoose": "^6.0.2",
     "multer": "^1.4.2",
     "sharp": "^0.23.4",
-    "socket.io": "^2.3.0",
+    "socket.io": "^4.2.0",
     "validator": "^11.1.0"
   }
 }
